@@ -1,0 +1,5 @@
+{
+  "name": "MaisuApp",
+  "description": "Herramienta offline para profesores de euskera para gestionar vocabulario, repasar en clase e imprimir materiales.",
+  "requestFramePermissions": []
+}
